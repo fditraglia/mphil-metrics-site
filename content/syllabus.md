@@ -8,12 +8,12 @@ My lectures on limited dependent variables and sample selection are scheduled fo
 * Maximum Likelihood with Mis-specification
 * Count Data Models
 * Models for Binary Outcomes
-* [Problem Set #1](./ps1.pdf)
+* [Problem Set #1](/ps1.pdf)
 
 ## HT Week 2
 * Random Utility Models
 * Sample Selection Models
 * Applied Examples in R
-* [Problem Set #2](./ps2.pdf)
+* [Problem Set #2](/ps2.pdf)
 
 
