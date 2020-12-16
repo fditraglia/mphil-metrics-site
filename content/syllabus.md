@@ -14,6 +14,6 @@ My lectures on limited dependent variables and sample selection are scheduled fo
 * Random Utility Models
 * Sample Selection Models
 * Applied Examples in R
-[Problem Set #2](./ps2.pdf)
+* [Problem Set #2](./ps2.pdf)
 
 
