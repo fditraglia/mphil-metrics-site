@@ -1,16 +1,32 @@
-baseURL = "http://example.org/"
+baseURL = "https://economictricks.com/"
 languageCode = "en-us"
-title = "Accessible Minimalism"
+title = "Introductory Graduate Econometrics"
 theme = "accessible-minimalism"
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
 
 [menu]
   [[menu.main]]
-    name = "Home"
+    name = "About"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
+    name = "Syllabus"
+    url = "/syllabus"
+    weight = 2
+  [[menu.main]]
+    name = "Lecture Notes"
+    url = "/limdep-notes.pdf"
+    weight = 2
+  [[menu.main]]
+    name = "Lecture Slides"
+    url = "/limdep-slides.pdf"
+    weight = 2
+  [[menu.main]]
+    name = "Videos"
+    url = "/videos"
+    weight = 2
+  [[menu.main]]
+    name = "References"
+    url = "/references"
     weight = 2
