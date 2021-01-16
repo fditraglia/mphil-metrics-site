@@ -5,7 +5,7 @@ title = "Limited Dependent Variables Syllabus: HT 2020"
 My lectures on limited dependent variables and sample selection are scheduled for weeks 1 and 2 of HT 2020. Due to current government restrictions, these will take place remotely. I will provide pre-recorded videos for you to watch in lieu of the regularly-scheduled Monday and Wednesday class meetings. On Fridays from 9:00-10:30am I will conduct a live Q&A over Zoom. Login details will be posted on canvas along with recordings of the Q&A sessions for students who are unable to attend. Topics for each week are listed below. Details of what to read/watch in advance of each Friday Q&M session will be added here soon.
 
 ## HT Week 1
-* Lecture 1: Maximum Likelihood with Mis-specification
+* Lecture 1: Maximum Likelihood under Mis-specification
     1. [Poisson MLE](https://expl.ai/CHAKTHR)
     2. [The Kullback-Leibler Divergence](https://expl.ai/REZKTJY)
     3. [Asymptotics for Mis-specified MLE](https://expl.ai/MRVFZMR)
