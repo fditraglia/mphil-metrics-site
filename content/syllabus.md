@@ -10,12 +10,12 @@ My lectures on limited dependent variables and sample selection are scheduled fo
     - Watch: [Poisson MLE](https://expl.ai/CHAKTHR), [The Kullback-Leibler Divergence](https://expl.ai/REZKTJY), [Asymptotics for Mis-specified MLE](https://expl.ai/MRVFZMR), [Asymptotic Variance Calculations for Poisson MLE](https://expl.ai/TZBUFGU), and [The Information Matrix Equality](https://expl.ai/MDCWESE)
 * Lecture 2: Poisson Regression
 * Lecture 3: Models for Binary Outcomes
-* [Problem Set #1](/ps1.pdf)
+* [Problem Set #1](/ps1.pdf) *Problems 1-3 are due on Friday of Week 2 in HT; Problem 4 will not be marked.*
 
 ## HT Week 2
 * Lecture 4: Random Utility Models
 * Lecture 5: Sample Selection Models
-* Lecture 6: Applied Examples in R (needed for both problem sets)
-* [Problem Set #2](/ps2.pdf)
+* Lecture 6: Applied Examples in R *(needed for Problem 4 on PS 1 and Problem 5 on PS 2, neither of which will be marked.)*
+* [Problem Set #2](/ps2.pdf) *Problems 1-4 are due on Friday of Week 3 in HT; Problem 5 will not be marked.*
 
 
