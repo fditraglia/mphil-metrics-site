@@ -14,7 +14,7 @@ My lectures on limited dependent variables and sample selection are scheduled fo
 
 * Lecture 3: Models for Binary Outcomes
     - Read: Lecture Notes Chapter 3
-    - Watch: TBA
+    - Watch: [3.1](https://expl.ai/XSLDYZE), [3.2](https://expl.ai/ZULFNLF), [3.3](https://expl.ai/KAHUPJN), [3.4](https://expl.ai/UFULXND)
 * [Problem Set #1](/ps1.pdf) *Problems 1-3 are due on Friday of Week 2 in HT; Problem 4 will not be marked.*
 
 ## HT Week 2
