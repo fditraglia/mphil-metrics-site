@@ -7,10 +7,10 @@ My lectures on limited dependent variables and sample selection are scheduled fo
 ## HT Week 1
 * Lecture 1: Maximum Likelihood under Mis-specification
     - Read: Lecture Notes Chapter 1
-    - Watch: [1-1](https://expl.ai/CHAKTHR), [1-2](https://expl.ai/REZKTJY), [1-3](https://expl.ai/MRVFZMR), [1-4](https://expl.ai/TZBUFGU), [1-5](https://expl.ai/MDCWESE)
+    - Watch: [1.1](https://expl.ai/CHAKTHR), [1.2](https://expl.ai/REZKTJY), [1.3](https://expl.ai/MRVFZMR), [1.4](https://expl.ai/TZBUFGU), [1.5](https://expl.ai/MDCWESE)
 * Lecture 2: Poisson Regression
     - Read: Lecture Notes Chapter 2
-    - Watch: [2-1](https://expl.ai/YZFFBCH), [2-2](https://expl.ai/AUEJLRB) [2-3](https://expl.ai/SUDPHVT), [2-4](https://expl.ai/FCSUTGZ), [2-5](https://expl.ai/KRJBUDF), [2-6](https://expl.ai/RCDDGQV)
+    - Watch: [2.1](https://expl.ai/YZFFBCH), [2.2](https://expl.ai/AUEJLRB), [2.3](https://expl.ai/SUDPHVT), [2.4](https://expl.ai/FCSUTGZ), [2.5](https://expl.ai/KRJBUDF), [2.6](https://expl.ai/RCDDGQV)
 
 * Lecture 3: Models for Binary Outcomes
     - Read: Lecture Notes Chapter 3
