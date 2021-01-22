@@ -19,4 +19,4 @@ title = "Videos"
     1. [Binary Outcomes & the Linear Probability Model](https://expl.ai/XSLDYZE)
     2. [Index Models: Logit & Probit](https://expl.ai/ZULFNLF)
     3. [Asymptotic Variance Calculations for Index Models](https://expl.ai/KAHUPJN)
-    4. [Pseudo R-squared](https://expl.ai/UFULXND)
+    4. [Pseudo R-squared](https://expl.ai/ANETTMF)
