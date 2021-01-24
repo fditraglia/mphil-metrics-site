@@ -20,7 +20,7 @@ My lectures on limited dependent variables and sample selection are scheduled fo
 ## HT Week 2
 * Lecture 4: Random Utility Models
     - Read: Lecture Notes Chapter 4
-    - Watch: TBA
+    - Watch: [1.1](https://expl.ai/MWEXXUE), [1.2](https://expl.ai/QLEKBJJ), [1.3](https://expl.ai/CAAGSWP), [1.4](https://expl.ai/CAUVVDH), [1.5](https://expl.ai/XTXUDBU)
 * Lecture 5: Sample Selection Models
     - Read: Lecture Notes Chapter 5
     - Watch: TBA

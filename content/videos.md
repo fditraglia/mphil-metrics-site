@@ -20,3 +20,9 @@ title = "Videos"
     2. [Index Models: Logit & Probit](https://expl.ai/ZULFNLF)
     3. [Asymptotic Variance Calculations for Index Models](https://expl.ai/KAHUPJN)
     4. [Pseudo R-squared](https://expl.ai/ANETTMF)
+* Random Utility Models
+    1. [Overview of Random Utility Models](https://expl.ai/MWEXXUE)
+    2. [Identification of Choice Models](https://expl.ai/QLEKBJJ)
+    3. [Index Models as a Special Case](https://expl.ai/CAAGSWP)
+    4. [The Logit Family of Choice Models](https://expl.ai/CAUVVDH)
+    5. [The Independence of Irrelevant Alternatives](https://expl.ai/XTXUDBU)
