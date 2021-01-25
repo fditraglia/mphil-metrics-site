@@ -20,10 +20,10 @@ My lectures on limited dependent variables and sample selection are scheduled fo
 ## HT Week 2
 * Lecture 4: Random Utility Models
     - Read: Lecture Notes Chapter 4
-    - Watch: [1.1](https://expl.ai/MWEXXUE), [1.2](https://expl.ai/QLEKBJJ), [1.3](https://expl.ai/CAAGSWP), [1.4](https://expl.ai/CAUVVDH), [1.5](https://expl.ai/XTXUDBU)
+    - Watch: [4.1](https://expl.ai/MWEXXUE), [4.2](https://expl.ai/QLEKBJJ), [4.3](https://expl.ai/CAAGSWP), [4.4](https://expl.ai/CAUVVDH), [4.5](https://expl.ai/XTXUDBU)
 * Lecture 5: Sample Selection Models
     - Read: Lecture Notes Chapter 5
-    - Watch: TBA
+    - Watch: [5.1](https://expl.ai/UXFHFNQ), [5.2](https://expl.ai/GFNGUDY), [5.3](https://expl.ai/LJBUHZQ), [5.4](https://expl.ai/BRXKQNX), [5.5](https://expl.ai/VFARCYE)
 * Lecture 6: Applied Examples in R *(needed for Problem 4 on PS 1 and Problem 5 on PS 2, neither of which will be marked.)*
 * [Problem Set #2](/ps2.pdf) *Problems 1-4 are due on Friday of Week 3 in HT; Problem 5 will not be marked.*
 

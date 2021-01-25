@@ -26,3 +26,9 @@ title = "Videos"
     3. [Index Models as a Special Case](https://expl.ai/CAAGSWP)
     4. [The Logit Family of Choice Models](https://expl.ai/CAUVVDH)
     5. [The Independence of Irrelevant Alternatives](https://expl.ai/XTXUDBU)
+* The Heckman Selection Model 
+    1. [Sample Selection](https://expl.ai/UXFHFNQ)
+    2. [The Heckman Selection Model](https://expl.ai/GFNGUDY)
+    3. [A Proof of Lemma 1](https://expl.ai/LJBUHZQ)
+    4. [A Proof of Lemma 2](https://expl.ai/BRXKQNX)
+    5. [The Mean of a Truncated Normal](https://expl.ai/VFARCYE)
