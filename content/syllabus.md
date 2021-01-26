@@ -24,10 +24,9 @@ My lectures on limited dependent variables and sample selection are scheduled fo
 * Lecture 5: Sample Selection Models
     - Read: Lecture Notes Chapter 5
     - Watch: [5.1](https://expl.ai/UXFHFNQ), [5.2](https://expl.ai/GFNGUDY), [5.3](https://expl.ai/LJBUHZQ), [5.4](https://expl.ai/BRXKQNX), [5.5](https://expl.ai/VFARCYE)
-* Lecture 6: Applied Examples in R 
+* Lecture 6: Applied Examples in R (Needed for PS1 Problem 4 and PS2 Problem 5)
     - Read: [Applied Examples: Count Data and Binary Outcomes](/r-examples.pdf)
     - Watch: TBA
-    - Note: You will need the material in this lecture to complete Problem 4 on Problem Set 1 and Problem 5 on Problem Set 2. Neither of these problems, however, will be collected or market.
 * [Problem Set #2](/ps2.pdf) *Problems 1-4 are due on Friday of Week 3 in HT; Problem 5 will not be marked.*
 
 
