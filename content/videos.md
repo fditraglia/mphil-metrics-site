@@ -32,3 +32,7 @@ title = "Videos"
     3. [A Proof of Lemma 1](https://expl.ai/LJBUHZQ)
     4. [A Proof of Lemma 2](https://expl.ai/BRXKQNX)
     5. [The Mean of a Truncated Normal](https://expl.ai/VFARCYE)
+* Applied Examples in R
+    1. [Installing R and RStudio](https://expl.ai/ZQUDLSS)
+    2. [Count Data - Wooldridge (2010) Example 18.1](https://expl.ai/USFRDBE)
+    3. Binary Outcomes - Wooldridge (2010) Example 15.1
