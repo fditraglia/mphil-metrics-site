@@ -38,7 +38,7 @@ My lectures on limited dependent variables and sample selection are scheduled fo
 *You will need the material in this lecture for problem 4 on Problem Set 1 and problem 5 on Problem Set 2.*
 
 - Read: [Applied Examples: Count Data and Binary Outcomes](/r-examples.pdf)
-- Watch: [6.1](https://expl.ai/ZQUDLSS), [6.2](https://expl.ai/USFRDBE), 6.3 *to be added*
+- Watch: [6.1](https://expl.ai/ZQUDLSS), [6.2](https://expl.ai/USFRDBE), [6.3](https://expl.ai/YNWZCNB)
 
 ### Problem Set #2
 *Problems 1-4 are due on Friday of Week 3 in HT; Problem 5 will not be marked.*

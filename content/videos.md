@@ -35,4 +35,4 @@ title = "Videos"
 * Applied Examples in R
     1. [Installing R and RStudio](https://expl.ai/ZQUDLSS)
     2. [Count Data - Wooldridge (2010) Example 18.1](https://expl.ai/USFRDBE)
-    3. Binary Outcomes - Wooldridge (2010) Example 15.1
+    3. [Binary Outcomes - Wooldridge (2010) Example 15.1](https://expl.ai/YNWZCNB)
