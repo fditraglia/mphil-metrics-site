@@ -28,7 +28,7 @@ title = "Videos"
     5. [The Independence of Irrelevant Alternatives](https://expl.ai/XTXUDBU)
 * The Heckman Selection Model 
     1. [Sample Selection](https://expl.ai/UXFHFNQ)
-    2. [The Heckman Selection Model](https://expl.ai/GFNGUDY)
+    2. [The Heckman Selection Model](https://expl.ai/YAATEME)
     3. [A Proof of Lemma 1](https://expl.ai/LJBUHZQ)
     4. [A Proof of Lemma 2](https://expl.ai/BRXKQNX)
     5. [The Mean of a Truncated Normal](https://expl.ai/VFARCYE)

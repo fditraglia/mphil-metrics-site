@@ -32,7 +32,7 @@ My lectures on limited dependent variables and sample selection are scheduled fo
 
 ### Lecture 5: Sample Selection Models 
   - Read: Lecture Notes Chapter 5
-  - Watch: [5.1](https://expl.ai/UXFHFNQ), [5.2](https://expl.ai/GFNGUDY), [5.3](https://expl.ai/LJBUHZQ), [5.4](https://expl.ai/BRXKQNX), [5.5](https://expl.ai/VFARCYE)
+  - Watch: [5.1](https://expl.ai/UXFHFNQ), [5.2](https://expl.ai/YAATEME), [5.3](https://expl.ai/LJBUHZQ), [5.4](https://expl.ai/BRXKQNX), [5.5](https://expl.ai/VFARCYE)
 
 ### Lecture 6: Applied Examples in R 
 *You will need the material in this lecture for problem 4 on Problem Set 1 and problem 5 on Problem Set 2.*
