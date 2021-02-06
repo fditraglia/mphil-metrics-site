@@ -43,5 +43,5 @@ My lectures on limited dependent variables and sample selection are scheduled fo
 ### Problem Set #2
 *Problems 1-4 are due on Friday of Week 3 in HT; Problem 5 will not be marked.*
 - [Problem Set #2](/ps2.pdf) 
-- Problem Set #2 Solutions 
+- [Problem Set #2 Solutions](/ps2-solutions.pdf)
 
