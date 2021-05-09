@@ -45,3 +45,8 @@ My lectures on limited dependent variables and sample selection are scheduled fo
 - [Problem Set #2](/ps2.pdf) 
 - [Problem Set #2 Solutions](/ps2-solutions.pdf)
 
+## TT Week 4, 2021
+
+### Revision Tutorial
+  - Monday, May 17th from 9:30-11am in the Manor Road Building
+  - [sample exam problem](/limdep-exam-practice.pdf), [solution](/limdep-exam-practice-soln.pdf)
