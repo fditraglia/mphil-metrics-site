@@ -48,5 +48,5 @@ My lectures on limited dependent variables and sample selection are scheduled fo
 ## TT Week 4, 2021
 
 ### Revision Lecture
-  - Monday, May 17th from 9:30-11am <s>in the Manor Road Building</s> *Unfortunately I have just learned that I will not be permitted to give this lecture in-person, so it will have to take place on zoom. Details will appear on canvas soon.*
+  - Monday, May 17th from 9:30-11am ~~in the Manor Road Building~~ *Unfortunately I have just learned that I will not be permitted to give this lecture in-person, so it will have to take place on zoom. Details will appear on canvas soon.*
   - [sample exam problem](/limdep-exam-practice.pdf), [solution](/limdep-exam-practice-soln.pdf)
