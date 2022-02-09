@@ -36,7 +36,7 @@ Due Monday of HT Week 6 at noon.
 
 ## HT Week 6
 - Tuesday: Topic 4
-- Wednesday: Topic 4
+- Wednesday: Topic 5
 
 ### Topic 4: Random Utility Models
   - Read: Lecture Notes Chapter 4 
