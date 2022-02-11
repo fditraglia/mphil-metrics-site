@@ -8,7 +8,7 @@ In 2021, because of covid restrictions, I produced approximately 4.5 hours of ca
 
 This year I'd like to try to take the best of both worlds. Rather than simply duplicating the videos that you can already watch from the comfort of your home, I plan to run our in-person lectures more like a Q&A session. I will also try to give you a "big picture" overview of the material, and possibly introduce some additional examples to help build understanding. In support of this plan, I ask that you **watch the videos before coming to each lecture.** 
 
-We have five topics to cover but only four lectures. In practice, this is less of a problem than it may appear: Topics 1 and 2 overlap substantially, as do Topics 3 and 4. Topic 3 is also quite short: much less than a full lecture's worth of material. Below I indicate which topics we'll discuss in each in-person lecture, along with the corresponding videos and readings. I'll post two problem sets shortly: these will be due on Mondays of HT Weeks 6-7 at noon.
+We have five topics to cover but only four lectures. In practice, this is less of a problem than it may appear: Topics 1 and 2 overlap substantially, as do Topics 3 and 4. Topic 3 is also quite short: much less than a full lecture's worth of material. Below I indicate which topics we'll discuss in each in-person lecture, along with the corresponding videos and readings. There will be two problem sets for my part of the course, both of which appear below. They are due on Mondays of HT Weeks 6-7 at noon.
 
 
 ## HT Week 5
@@ -30,8 +30,7 @@ We have five topics to cover but only four lectures. In practice, this is less o
 
 ### Problem Set #1 
 Due Monday of HT Week 6 at noon.
-<!--*Problems 1-3 are due on Friday of Week 2 in HT; Problem 4 will not be marked.*
-  - [Problem Set #1](/ps1.pdf)-->
+  - [Problem Set #1](/ps1.pdf)
 <!--- [Problem Set #1 Solutions](/ps1-solutions.pdf)-->
 
 ## HT Week 6
@@ -54,8 +53,7 @@ Due Monday of HT Week 6 at noon.
 
 ### Problem Set #2
 Due Monday of HT Week 7 at noon.
-<!--*Problems 1-4 are due on Friday of Week 3 in HT; Problem 5 will not be marked.*
-- [Problem Set #2](/ps2.pdf)-->
+- [Problem Set #2](/ps2.pdf)
 <!--- [Problem Set #2 Solutions](/ps2-solutions.pdf)-->
 
 <!--## TT Week 4, 2021-->
