@@ -16,6 +16,7 @@ We have five topics to cover but only four lectures. In practice, this is less o
 ## HT Week 5
 - Tuesday: Topic 1 and first half of Topic 2
 - Wednesday: second half of Topic 2, Topic 3
+- [Week 5 Digital Whiteboard](/2022-HT-Week-5-MPhil-Metrics.pdf)
 
 ### Topic 1: Maximum Likelihood under Mis-specification
   - Read: Lecture Notes Chapter 1 (*Less Important: 1.4 Appendix*)
