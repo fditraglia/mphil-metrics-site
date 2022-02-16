@@ -8,6 +8,8 @@ In 2021, because of covid restrictions, I produced approximately 4.5 hours of ca
 
 This year I'd like to try to take the best of both worlds. Rather than simply duplicating the videos that you can already watch from the comfort of your home, I plan to run our in-person lectures more like a Q&A session. I will also try to give you a "big picture" overview of the material, and possibly introduce some additional examples to help build understanding. In support of this plan, I ask that you **watch the videos before coming to each lecture.** 
 
+To help you target your studies more effectively, I've marked some videos with an asterisk (1.5, 3.3, 3.4, 5.5) and listed some sections of the notes as "less important." This material could be skipped on a first pass through the course or even skipped altogether without much loss. All else equal, I would *still* recommend that you watch and read this material, but it is certainly not where you focus your attention when preparing for the exam.
+
 We have five topics to cover but only four lectures. In practice, this is less of a problem than it may appear: Topics 1 and 2 overlap substantially, as do Topics 3 and 4. Topic 3 is also quite short: much less than a full lecture's worth of material. Below I indicate which topics we'll discuss in each in-person lecture, along with the corresponding videos and readings. There will be two problem sets for my part of the course, both of which appear below. They are due on Mondays of HT Weeks 6-7 at noon.
 
 
@@ -16,16 +18,16 @@ We have five topics to cover but only four lectures. In practice, this is less o
 - Wednesday: second half of Topic 2, Topic 3
 
 ### Topic 1: Maximum Likelihood under Mis-specification
-  - Read: Lecture Notes Chapter 1
-  - Watch: [1.1](https://expl.ai/CHAKTHR), [1.2](https://expl.ai/REZKTJY), [1.3](https://expl.ai/MRVFZMR), [1.4](https://expl.ai/TZBUFGU), [1.5](https://expl.ai/MDCWESE)
+  - Read: Lecture Notes Chapter 1 (*Less Important: 1.4 Appendix*)
+  - Watch: [1.1](https://expl.ai/CHAKTHR), [1.2](https://expl.ai/REZKTJY), [1.3](https://expl.ai/MRVFZMR), [1.4](https://expl.ai/TZBUFGU), [1.5*](https://expl.ai/MDCWESE)
 
 ### Topic 2: Poisson Regression
   - Read: Lecture Notes Chapter 2
   - Watch: [2.1](https://expl.ai/YZFFBCH), [2.2](https://expl.ai/AUEJLRB), [2.3](https://expl.ai/SUDPHVT), [2.4](https://expl.ai/FCSUTGZ), [2.5](https://expl.ai/KRJBUDF), [2.6](https://expl.ai/RCDDGQV)
 
 ### Topic 3: Models for Binary Outcomes
- - Read: Lecture Notes Chapter 3
- - Watch: [3.1](https://expl.ai/XSLDYZE), [3.2](https://expl.ai/ZULFNLF), [3.3](https://expl.ai/KAHUPJN), [3.4](https://expl.ai/ANETTMF)
+ - Read: Lecture Notes Chapter 3 (*Less Important: 3.6 from Theorem 3.1 onwards, 3.7*)
+ - Watch: [3.1](https://expl.ai/XSLDYZE), [3.2](https://expl.ai/ZULFNLF), [3.3*](https://expl.ai/KAHUPJN), [3.4*](https://expl.ai/ANETTMF)
 
 
 ### Problem Set #1 
@@ -38,12 +40,12 @@ Due Monday of HT Week 6 at noon.
 - Wednesday: Topic 5
 
 ### Topic 4: Random Utility Models
-  - Read: Lecture Notes Chapter 4 
+  - Read: Lecture Notes Chapter 4 (*Less Important: 4.7 Appendix*) 
   - Watch: [4.1](https://expl.ai/MWEXXUE), [4.2](https://expl.ai/QLEKBJJ), [4.3](https://expl.ai/CAAGSWP), [4.4](https://expl.ai/CAUVVDH), [4.5](https://expl.ai/XTXUDBU)
 
 ### Topic 5: Sample Selection Models 
-  - Read: Lecture Notes Chapter 5
-  - Watch: [5.1](https://expl.ai/UXFHFNQ), [5.2](https://expl.ai/YAATEME), [5.3](https://expl.ai/LJBUHZQ), [5.4](https://expl.ai/BRXKQNX), [5.5](https://expl.ai/VFARCYE)
+  - Read: Lecture Notes Chapter 5 (*Less Important: 5.5 Appendix*)
+  - Watch: [5.1](https://expl.ai/UXFHFNQ), [5.2](https://expl.ai/YAATEME), [5.3](https://expl.ai/LJBUHZQ), [5.4](https://expl.ai/BRXKQNX), [5.5*](https://expl.ai/VFARCYE)
 
 <!--### Lecture 6: Applied Examples in R 
 *You will need the material in this lecture for problem 4 on Problem Set 1 and problem 5 on Problem Set 2.*
