@@ -34,7 +34,7 @@ We have five topics to cover but only four lectures. In practice, this is less o
 ### Problem Set #1 
 Due Monday of HT Week 6 at noon.
   - [Problem Set #1](/ps1.pdf)
-<!--- [Problem Set #1 Solutions](/ps1-solutions.pdf)-->
+  - [Problem Set #1 Solutions](/ps1-solutions.pdf)
 
 ## HT Week 6
 - Tuesday: Topic 4
