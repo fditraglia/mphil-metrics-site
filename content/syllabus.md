@@ -39,6 +39,7 @@ Due Monday of HT Week 6 at noon.
 ## HT Week 6
 - Tuesday: Topic 4
 - Wednesday: Topic 5
+- [Week 6 Digital Whiteboard](/2022-HT-Week-6-MPhil-Metrics.pdf)
 
 ### Topic 4: Random Utility Models
   - Read: Lecture Notes Chapter 4 (*Less Important: 4.7 Appendix*) 
@@ -57,7 +58,7 @@ Due Monday of HT Week 6 at noon.
 ### Problem Set #2
 Due Monday of HT Week 7 at noon.
 - [Problem Set #2](/ps2.pdf)
-<!--- [Problem Set #2 Solutions](/ps2-solutions.pdf)-->
+- [Problem Set #2 Solutions](/ps2-solutions.pdf)-->
 
 <!--## TT Week 4, 2021-->
 
